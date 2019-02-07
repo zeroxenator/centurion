@@ -1,0 +1,29 @@
+enable : true
+heading : What
+headingSpan : We Offer
+serviceItem :
+
+  - icon : tf-ion-laptop
+    title : Liability & Capital
+    content : Restructuring Consultancy
+    
+  - icon : tf-genius
+    title : Administrative Studies
+    content : Consultancy
+    
+  - icon : tf-dial
+    title : Business Assessments
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  - icon : tf-target3
+    title : Project Finance
+    content : Advise on project finance structure under PPP, PFI, ECA.
+    
+  - icon : tf-lifesaver
+    title : Networking
+    content : Connecting with industry experts.
+
+  - icon : tf-globe
+    title : Risk Mitigations
+    content : solutions
+    

@@ -1,0 +1,15 @@
+enable : true
+heading : Who
+headingSpan : We Are
+aboutItem : 
+- icon : tf-tools
+  title : We're Professional
+  content : A veteran high ranking professional with two decades of services in Abu Dhabi government departments and GREs.
+
+- icon : tf-strategy
+  title : We're Experts
+  content : An eminent banking professional with more than three decades of working experience in corporate relationship, syndicated finance and project finance.
+
+- icon : tf-anchor2
+  title : We're Solutions
+  content : We capitalize the networking and knowledge of business challenges and to deliver with integrity and passion to provide right structured end to end solutions to corporate and government entities.
