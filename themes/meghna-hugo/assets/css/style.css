@@ -43,12 +43,12 @@ p {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #81AECB;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #81AECB;
 }
 
 ol,
@@ -113,7 +113,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #81AECB;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -188,7 +188,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #81AECB;
 }
 
 .color {
@@ -264,11 +264,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #81AECB;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -353,7 +353,7 @@ a:hover {
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #57cbcc;
+  background-color: #81AECB;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -446,7 +446,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .title p {
@@ -491,7 +491,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .slick-slide {
@@ -558,7 +558,7 @@ a:hover {
 }
 
 .navigation .navigation-menu li.active a {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .navigation .navigation-menu li a {
@@ -569,7 +569,7 @@ a:hover {
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .navbar-toggle {
@@ -618,7 +618,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #81AECB;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -633,6 +633,14 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-area .block h2 {
+  font-size: 70px;
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
@@ -713,7 +721,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #81AECB;
 }
 
 .about .block:hover .icon-box {
@@ -785,7 +793,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .about-2 .content-block .media h4 {
@@ -858,12 +866,12 @@ a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #81AECB;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #81AECB;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -955,7 +963,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #57cbcc;
+  color: #81AECB;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -966,7 +974,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: #81AECB;
   font-size: 30px;
 }
 
@@ -1010,8 +1018,8 @@ a:hover {
 }
 
 .portfolio-filter button.mixitup-control-active {
-  border: 1px solid #57cbcc;
-  color: #57cbcc;
+  border: 1px solid #81AECB;
+  color: #81AECB;
 }
 
 .portfolio-items-wrapper .mix {
@@ -1074,7 +1082,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #57cbcc;
+  background: #81AECB;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -1120,13 +1128,13 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #57cbcc none repeat scroll 0 0;
+  background: #81AECB none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
@@ -1159,7 +1167,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #57cbcc;
+  background: #81AECB;
 }
 
 /*=================================================================
@@ -1238,7 +1246,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #57cbcc;
+  color: #81AECB;
   border: 1px solid transparent;
 }
 
@@ -1319,7 +1327,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #57cbcc;
+  background-color: #81AECB;
   border: 2px solid transparent;
 }
 
@@ -1413,7 +1421,7 @@ a:hover {
 }
 
 .post-meta a {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .post-meta>span {
@@ -1474,7 +1482,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .next-prev .prev-post i {
@@ -1497,7 +1505,7 @@ a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #57cbcc;
+  color: #81AECB;
 }
 
 .comments-section {
@@ -1545,7 +1553,7 @@ a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #57cbcc;
+  color: #81AECB;
   font-size: 13px;
 }
 
@@ -1572,7 +1580,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #57cbcc;
+  border: 1px solid #81AECB;
 }
 
 .comment-reply-form textarea,
@@ -1596,7 +1604,7 @@ a:hover {
 }
 
 .social-icon ul li:hover a {
-  background-color: #57cbcc;
+  background-color: #81AECB;
   -webkit-transform: rotateY(0deg);
   transform: rotateY(0deg);
 }
@@ -1672,8 +1680,8 @@ a:hover {
 }
 
 #scrollUp:hover {
-  background-color: #57cbcc;
-  border: 1px solid #57cbcc;
+  background-color: #81AECB;
+  border: 1px solid #81AECB;
 }
 
 /*=================================================================

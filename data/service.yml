@@ -5,15 +5,15 @@ serviceItem :
 
   - icon : tf-ion-laptop
     title : Liability & Capital
-    content : Restructuring Consultancy
+    content : Restructuring consultancy
     
   - icon : tf-genius
-    title : Administrative Studies
-    content : Consultancy
+    title : Administrative Studies 
+    content : End to end business consultancy
     
   - icon : tf-dial
     title : Business Assessments
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Providing right structure to better performance and results.
     
   - icon : tf-target3
     title : Project Finance
@@ -21,9 +21,9 @@ serviceItem :
     
   - icon : tf-lifesaver
     title : Networking
-    content : Connecting with industry experts.
+    content : Connect with industry experts.
 
   - icon : tf-globe
     title : Risk Mitigations
-    content : solutions
+    content : Solutions
     

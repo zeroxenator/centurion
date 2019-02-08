@@ -13,8 +13,10 @@
 
             {{"<!-- logo -->" | safeHTML}}
             <a class="navbar-brand logo" href="{{ .Site.BaseURL | absURL }}">
-                <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" />
+                <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" width="42" height="42"/>
             </a>
+            {{with .Site.Params.banner.heading}}<h4>{{ . }}</h4>{{ end }}
+
             {{"<!-- /logo -->" | safeHTML}}
         </div>
 

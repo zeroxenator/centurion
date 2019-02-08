@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost/"
 languageCode = "en-us"
-title = "Centurion"
+title = "Centurion Consultancy"
 theme = "meghna-hugo"
 
 # Menu
@@ -43,7 +43,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/logo_2.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Airspace Hugo theme"
@@ -55,10 +55,11 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/relationshipsp.jpg"
+    bgImage = "images/slider/relationships.jpg"
     icon = "tf-ion-play"
     heading = "Centurion Consultancy"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    subheading = "Abu Dhabi"
+    content= "Building relationships that drive your business"
     btn = true
     btnText="Explore Us"
     btnURL="#about"
